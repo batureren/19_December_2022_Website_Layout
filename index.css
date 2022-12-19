@@ -15,7 +15,8 @@ body{
 
 .border{
     width: 70%;
-    height: 145px;
+    min-width: 766px;
+    min-height: 145px;
     margin-left: auto;
     margin-right: auto;
     margin-top: 10px;
