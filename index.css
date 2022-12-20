@@ -43,6 +43,8 @@ div img{
     cursor: pointer;
     position:relative;
     z-index: 1;
+    transform: scale(1.0);
+    transition: transform 0.50s;
 }
 
 div img:hover{
@@ -89,6 +91,7 @@ a:active {
 
 button:hover{
     font-size: 20px;
+    
 }
 
 h2{
